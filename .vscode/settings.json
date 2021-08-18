@@ -1,0 +1,8 @@
+{
+  "C_Cpp.autoAddFileAssociations": false,
+  "[cpp]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.dimInactiveRegions": true
+}
